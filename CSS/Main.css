@@ -73,7 +73,7 @@ a:hover{
   float: right;
 }
 
-img {
+#game-board img {
   margin: 40px 8px 8px 0px;
   box-shadow: 5px 5px 5px grey;
 }
@@ -85,6 +85,10 @@ content: " ";
 clear: both;
 height: 0;
 font-size: 0;
+}
+
+#reset-board {
+  margin: 15px;
 }
 
 .name{
